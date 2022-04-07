@@ -20,8 +20,7 @@ This will be come our probability matrix P in diffusion.
 More details can be found [here](https://rmarcus.info/blog/2017/10/04/rfk.html).
 
 ### Diffusion Map Implementation
-![screencapture-localhost-8888-notebooks-Diffusion-Map-ipynb-2022-04-06-20_31_54](https://user-images.githubusercontent.com/8800441/162114845-954e29d3-fc4c-492e-a06c-19062b92fa56.png)
-
+![screencapture-localhost-8888-notebooks-Diffusion-Map-ipynb-2022-04-06-20_33_59](https://user-images.githubusercontent.com/8800441/162115038-bc42adf8-97f8-4903-8481-c2c4ddf2e261.png)
 
 ### RFK w/ Diffusion Map Implementation
-![screencapture-localhost-8888-notebooks-RFK-Diffusion-Map-ipynb-2022-04-06-20_30_46](https://user-images.githubusercontent.com/8800441/162114725-b1080817-9c15-43f7-839f-30c179d7967a.png)
+![screencapture-localhost-8888-notebooks-RFK-Diffusion-Map-ipynb-2022-04-06-20_33_11](https://user-images.githubusercontent.com/8800441/162114933-376a0850-c2d0-4185-824d-85d5147f1415.png)
